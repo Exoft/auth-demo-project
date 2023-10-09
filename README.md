@@ -18,8 +18,7 @@ There may be instances where the consideration of storing the token in the `serv
 
 ## Project structure
 
-    .
-    ├── dist                    # Compiled files
+    ...
     ├── src                     # Source files
     ├── __tests__               # Small unit test to cover core functionality
     └── .eslintrc.cjs           # Eslint configuration file
